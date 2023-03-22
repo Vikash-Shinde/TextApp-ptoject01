@@ -1,0 +1,7 @@
+1. intence learning on React js. 
+2. routing/router
+3. function components/ class components. 
+4. hooks and this.set
+5. props !important
+6. npm install react-router-dom@6 
+	i. In React v6, Switch no longer exists. This solution is for react v6:
